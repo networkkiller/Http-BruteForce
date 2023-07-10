@@ -10,7 +10,7 @@
 [<img src="https://elisendahernandezjanes.com/wp-content/uploads/2017/03/Anonymous.jpg" width="50%">](https://www.youtube.com/channel/UCcvI7QSyQ-6IgpSGiErszNg "Python File Management")
 
 ## Getting Started
-#WARNING
+# WARNING
 Dado que la mayoría de los entornos de AD tienen configurado el bloqueo de cuentas, no podremos ejecutar un ataque completo de fuerza bruta. En su lugar, necesitamos realizar un ataque de rociado de contraseñas. En lugar de probar varias contraseñas diferentes, que pueden activar el mecanismo de bloqueo de la cuenta, elegimos y usamos una contraseña e intentamos autenticarnos con todos los nombres de usuario que hemos adquirido. Sin embargo, cabe señalar que este tipo de ataques pueden detectarse debido a la cantidad de intentos de autenticación fallidos que generarán.
 # Requirements
 You can install the Requirements by running the command:
