@@ -40,12 +40,12 @@ def main(argv):
     try:
         opts, args = getopt.getopt(argv, "hu:f:p:a:", ["userfile=", "fqdn=", "password=", "attackurl="])
     except getopt.GetoptError:
-        print ("ntlm_passwordspray.py -u <userfile> -f <fqdn> -p <password> -a <attackurl>")
+        print ("Http-BruteForce.py -u <userfile> -f <fqdn> -p <password> -a <attackurl>")
         sys.exit(2)
 
     for opt, arg in opts:
         if opt == '-h':
-            print ("ntlm_passwordspray.py -u <userfile> -f <fqdn> -p <password> -a <attackurl>")
+            print ("Http-BruteForce.py -u <userfile> -f <fqdn> -p <password> -a <attackurl>")
             sys.exit()
         elif opt in ("-u", "--userfile"):
             userfile = str(arg)
