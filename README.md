@@ -1,7 +1,7 @@
 # HTTP-BRUTEFORCE
  
 <h1 align='center'>HTTP-BRUTEFORCE</h1>
-<p align='center'>pequeño script para ataque de fuerza bruta a Http</p>
+<p align='center'>pequeño script para ataque de fuerza bruta a Http NTLM </p>
 
 
 
