@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ```sh
 $ git clone https://github.com/networkkiller/Http-BruteForce/
-$ python3 HTTP-BRUTEFORCE.py
+$ python3 Http-BruteForce.py -u <userfile> -f <dominio> -p <password> -a <attackurl>
 
 ```
 
